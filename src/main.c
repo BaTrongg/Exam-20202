@@ -7,7 +7,7 @@
 #include"../libfdr/jval.h"
 #define MAX 100
 #define INFINITY_VALUE 10000000
-
+//trong dpe trai
 typedef struct element{
     char soHieu[10];
 }element;
