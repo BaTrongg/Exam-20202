@@ -1,0 +1,15 @@
+0
+V A K 
+L A O 
+A V L B C O 
+B L A C D H 
+C A B 
+D B E F 
+E D 
+F D G 
+G F H 
+H B G J O 
+I J K 
+J H I K 
+K V I J O 
+O L A H K 
